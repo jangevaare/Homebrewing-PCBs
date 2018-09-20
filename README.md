@@ -8,7 +8,7 @@ This PCB was created for use with [thorrak](https://github.com/thorrak/)'s [ESP8
 ### Bill of Materials
 |Qty|Description|Details|Source|
 |---|------------------------|--------------|--------------|
-|1  |ESP8266 Homebrewing PCB|  |[PCBs.io/share/4QvpO](https://PCBs.io/share/4QvpO)|
+|1  |ESP8266 Homebrewing PCB|  |[pcbway.com/project/shareproject/ESP8266_Homebrew_v0_1_3.html](https://www.pcbway.com/project/shareproject/ESP8266_Homebrew_v0_1_3.html)|
 |2  |0.1μF 25v capacitor|0805|Digikey 399-1168-1-ND|
 |2  |NPN transistor|SOT23-3|Digikey TMBT3904LMCT-ND|
 |2  |N-channel MOSFET|SOT23-3|Digikey BSS138-FDICT-ND|
@@ -32,7 +32,7 @@ This PCB was created for use with:
 ### Bill of Materials
 |Qty|Description|Details|Source|
 |---|------------------------|--------------|--------------|
-|1  |Raspberry Pi Homebrewing PCB|   |[PCBs.io/share/zk7Px](https://PCBs.io/share/zk7Px)|
+|1  |Raspberry Pi Homebrewing PCB|   |[pcbway.com/project/shareproject/Raspberry_Pi_Homebrew_board_v0_2_2.html](https://www.pcbway.com/project/shareproject/Raspberry_Pi_Homebrew_board_v0_2_2.html)|
 |1  |ULN2803A Darlington array|DIP|Digikey 497-2356-5-ND|
 |12 |2 position terminal blocks |2.54mm|Digikey A98333-ND|
 |1  |0.1μF 25v capacitor|0805|Digikey 399-1168-1-ND|
