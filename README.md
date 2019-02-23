@@ -24,10 +24,11 @@ day_trippr from homebrewtalk provided significant guidance on PCB design. Thanks
 ## Raspberry Pi homebrewing board
 ### Purpose
 This PCB was created for use with:
+* [Node-RED](https://nodered.org) IoT Software
 * [Manuel83](https://github.com/Manuel83)'s [CraftBeerPi](https://github.com/Manuel83/craftbeerpi3)
 * [DougEdey](https://github.com/DougEdey/)'s [Strangebrew Elsinore](https://github.com/DougEdey/SB_Elsinore_Server)
 * [andrewerrington](https://github.com/andrewerrington)'s [fuscus](https://github.com/andrewerrington/fuscus)
-* And similar software
+* And others!
 
 ### Bill of Materials
 |Qty|Description|Details|Source|
